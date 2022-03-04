@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @0xnoxturnee
-- 👀 I’m interested in backend develpment
+- 👀 I’m interested in backend, full stack develpoment
 - 🌱 I’m currently learning solidty, most self taught
 - 💞️ I’m looking to collaborate on deploying mainnet smart contracts and develpoing full functioning protocols
 - 📫 How to reach me 0x9#7605 on Discord.
